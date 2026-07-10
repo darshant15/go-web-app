@@ -2,7 +2,7 @@
 # This is the Dockerfile that we will use to build the image
 
 # Start with a base image
-FROM golang:1.24 AS base
+FROM golang:1.22.5 AS base
 # Set the working directory inside the container 
 WORKDIR /app
 
