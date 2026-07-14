@@ -20,6 +20,5 @@ http://localhost:8080/courses
 
 ![Go Web App Screenshot](https://raw.githubusercontent.com/darshant15/go-web-app/main/static/images/web-app-1screenshoot.png)
 
-```
 
-![Go Web App Screenshot](https://github.com/darshant15/go-web-app/blob/main/static/images/web-app-scrennshoot.png)
+![Go Web App Screenshot](https://raw.githubusercontent.com/darshant15/go-web-app/main/static/images/web-app-scrennshoot.png)
